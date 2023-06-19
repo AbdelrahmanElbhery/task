@@ -1,19 +1,14 @@
 import 'package:flutter/material.dart';
 
 import 'package:train/search_field.dart';
-import 'package:train/type_ahead.dart';
 
 class Task extends StatelessWidget {
-  TextEditingController textEditingController = TextEditingController();
+  const Task({super.key});
+
   @override
   Widget build(BuildContext context) => const Scaffold(
         body: SafeArea(
-          child: Column(
-            children: [
-              TypeHead(),
-              Searching(),
-            ],
-          ),
+          child: Center(child: Searching()),
         ),
       );
 }

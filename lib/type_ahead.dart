@@ -19,10 +19,12 @@ class TypeHead extends StatelessWidget {
           return const CircularProgressIndicator();
         } else {
           return Container(
-            height: MediaQuery.of(context).size.height * .1,
             width: MediaQuery.of(context).size.width * .8,
             padding: const EdgeInsets.all(16),
             child: TypeAheadField<Players?>(
+              suggestionsBoxDecoration: SuggestionsBoxDecoration(
+                  constraints: BoxConstraints(
+                      maxHeight: MediaQuery.of(context).size.height * .2)),
               hideSuggestionsOnKeyboardHide: true,
               textFieldConfiguration: TextFieldConfiguration(
                 focusNode: TaskCubit.get(context).myfocus,
@@ -48,20 +50,7 @@ class TypeHead extends StatelessWidget {
               },
               itemBuilder: (context, Players? suggestion) {
                 final user = suggestion!;
-                return Padding(
-                  padding: const EdgeInsets.all(10.0),
-                  child: Text(user.name!),
-                );
-              },
-              layoutArchitecture: (items, scrollContoller) {
-                return SizedBox(
-                  height: 200,
-                  child: ListView(
-                    controller: scrollContoller,
-                    shrinkWrap: true,
-                    children: items.toList(),
-                  ),
-                );
+                return ListTile(title: Text(user.name!));
               },
               noItemsFoundBuilder: (context) => Container(
                 height: 40,

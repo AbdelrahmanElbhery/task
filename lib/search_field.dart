@@ -1,11 +1,8 @@
-import 'package:conditional_builder_null_safety/conditional_builder_null_safety.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:searchfield/searchfield.dart';
 import 'package:train/data/models/news_model.dart';
 import 'package:train/task_cubit.dart';
-
-import 'data/models/players_model.dart';
 
 class Searching extends StatelessWidget {
   const Searching({
@@ -18,6 +15,7 @@ class Searching extends StatelessWidget {
       listener: (context, state) {
         if (state is GetNewsSuccessState) {
           show = true;
+          TaskCubit.get(context).listenFocus();
         }
       },
       builder: (context, state) {
@@ -26,6 +24,7 @@ class Searching extends StatelessWidget {
             height: MediaQuery.of(context).size.height * .07,
             width: MediaQuery.of(context).size.width * .75,
             child: SearchField<Articles>(
+              suggestionState: Suggestion.expand,
               onSubmit: (val) {
                 TaskCubit.get(context).iconseconddrop();
               },
@@ -33,9 +32,7 @@ class Searching extends StatelessWidget {
                 TaskCubit.get(context).searchNews(p0);
               },
               focusNode: TaskCubit.get(context).mysecondfocus,
-              onSuggestionTap: (val) {
-                print(val.item?.title);
-              },
+              onSuggestionTap: (val) {},
               itemHeight: 40,
               searchInputDecoration: InputDecoration(
                   hintText: 'Search Username',
@@ -76,7 +73,7 @@ class Searching extends StatelessWidget {
             ),
           );
         } else {
-          return Center(
+          return const Center(
             child: CircularProgressIndicator(),
           );
         }

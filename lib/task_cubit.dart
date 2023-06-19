@@ -28,6 +28,18 @@ class TaskCubit extends Cubit<TaskState> {
   NewsModel? newsModel;
   List<Articles> articles = [];
 
+  listenFocus() {
+    mysecondfocus.addListener(() {
+      if (mysecondfocus.hasFocus) {
+        dropsearchSecondIcon = Icons.arrow_back;
+        emit(ChangeButtonState());
+      } else {
+        dropsearchSecondIcon = Icons.arrow_downward;
+        emit(ChangeButtonState());
+      }
+    });
+  }
+
   icondrop() {
     iconarrow = !iconarrow;
     if (iconarrow) {

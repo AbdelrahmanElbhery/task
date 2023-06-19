@@ -20,3 +20,5 @@ class GetNewsSuccessState extends TaskState {}
 class SearchNewsLoadingState extends TaskState {}
 
 class SearchNewsSuccessState extends TaskState {}
+
+class ChangeButtonState extends TaskState {}

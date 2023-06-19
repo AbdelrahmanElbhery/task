@@ -27,6 +27,7 @@ class TaskCubit extends Cubit<TaskState> {
   FocusNode mysecondfocus = FocusNode();
   NewsModel? newsModel;
   List<Articles> articles = [];
+  List<Articles> mainarticles = [];
 
   listenFocus() {
     mysecondfocus.addListener(() {
@@ -93,23 +94,29 @@ class TaskCubit extends Cubit<TaskState> {
     emit(GetNewsLoadingState());
     Response? data = await Maindio.getdata(path: 'everything', query: {
       'q': 'tesla',
-      'apiKey': '5bc54d52e842452591919b879d3ab1dc',
+      'apiKey': 'f56ecd36e3e84ce3b5a50f4298e5f496',
       'pagesize': 10
     });
     newsModel = NewsModel.fromJson(data?.data);
-    articles = newsModel!.articles!;
+    mainarticles = newsModel!.articles!;
+    articles = mainarticles;
     emit(GetNewsSuccessState());
   }
 
   Future<void> searchNews(String query) async {
     emit(SearchNewsLoadingState());
-    Response? data = await Maindio.getdata(path: 'everything', query: {
-      'q': '$query',
-      'apiKey': '5bc54d52e842452591919b879d3ab1dc',
-      'pagesize': 20
-    });
-    newsModel = NewsModel.fromJson(data?.data);
-    articles = newsModel!.articles!;
+    if (query == '') {
+      articles = mainarticles;
+    } else {
+      Response? data = await Maindio.getdata(path: 'everything', query: {
+        'q': '$query',
+        'apiKey': 'f56ecd36e3e84ce3b5a50f4298e5f496',
+        'pagesize': 20
+      });
+      newsModel = NewsModel.fromJson(data?.data);
+      articles = newsModel!.articles!;
+    }
+
     emit(SearchNewsSuccessState());
   }
 }

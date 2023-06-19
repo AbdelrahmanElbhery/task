@@ -2,11 +2,9 @@ import 'dart:convert';
 
 import 'package:bloc/bloc.dart';
 import 'package:dio/dio.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:meta/meta.dart';
 import 'package:train/core/dio.dart';
 import 'package:train/data/models/news_model.dart';
 
@@ -109,7 +107,7 @@ class TaskCubit extends Cubit<TaskState> {
       articles = mainarticles;
     } else {
       Response? data = await Maindio.getdata(path: 'everything', query: {
-        'q': '$query',
+        'q': query,
         'apiKey': 'f56ecd36e3e84ce3b5a50f4298e5f496',
         'pagesize': 20
       });

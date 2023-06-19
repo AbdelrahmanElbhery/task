@@ -21,7 +21,6 @@ class Searching extends StatelessWidget {
       builder: (context, state) {
         if (show) {
           return SizedBox(
-            height: MediaQuery.of(context).size.height * .07,
             width: MediaQuery.of(context).size.width * .75,
             child: SearchField<Articles>(
               suggestionState: Suggestion.expand,

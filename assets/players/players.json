@@ -1,0 +1,2104 @@
+{
+  "players": [
+    {
+      "number": 1,
+      "name": "Lionel Messi",
+      "clubs": ["Barcelona", "Paris Saint-Germain"],
+      "nationality": "Argentina",
+      "trophies": ["6 Ballon d'Or", "10 La Liga", "4 Champions League"]
+    },
+    {
+      "number": 2,
+      "name": "Cristiano Ronaldo",
+      "clubs": ["Sporting CP", "Manchester United", "Real Madrid", "Juventus"],
+      "nationality": "Portugal",
+      "trophies": ["5 Ballon d'Or", "3 Premier League", "2 La Liga", "1 Serie A", "5 Champions League"]
+    },
+    {
+      "number": 3,
+      "name": "Neymar Jr.",
+      "clubs": ["Santos", "Barcelona", "Paris Saint-Germain"],
+      "nationality": "Brazil",
+      "trophies": ["1 Copa Libertadores", "2 Ligue 1", "1 Champions League"]
+    },
+    {
+      "number": 4,
+      "name": "Kylian Mbappé",
+      "clubs": ["Monaco", "Paris Saint-Germain"],
+      "nationality": "France",
+      "trophies": ["3 Ligue 1", "1 World Cup"]
+    },
+    {
+      "number": 5,
+      "name": "Robert Lewandowski",
+      "clubs": ["Borussia Dortmund", "Bayern Munich"],
+      "nationality": "Poland",
+      "trophies": ["4 Bundesliga", "1 Champions League"]
+    },
+    {
+      "number": 6,
+      "name": "Kevin De Bruyne",
+      "clubs": ["Chelsea", "Wolfsburg", "Manchester City"],
+      "nationality": "Belgium",
+      "trophies": ["4 Premier League", "1 FA Cup", "1 Bundesliga"]
+    },
+    {
+      "number": 7,
+      "name": "Mohamed Salah",
+      "clubs": ["Basel", "Chelsea", "Roma", "Liverpool"],
+      "nationality": "Egypt",
+      "trophies": ["2 Premier League", "1 Champions League"]
+    },
+    {
+      "number": 8,
+      "name": "Harry Kane",
+      "clubs": ["Tottenham Hotspur"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 9,
+      "name": "Karim Benzema",
+      "clubs": ["Lyon", "Real Madrid"],
+      "nationality": "France",
+      "trophies": ["5 La Liga", "4 Champions League"]
+    },
+    {
+      "number": 10,
+      "name": "Sergio Agüero",
+      "clubs": ["Atlético Madrid", "Manchester City", "Barcelona"],
+      "nationality": "Argentina",
+      "trophies": ["5 Premier League"]
+    },
+    {
+      "number": 11,
+      "name": "Erling Haaland",
+      "clubs": ["Molde", "RB Salzburg", "Borussia Dortmund"],
+      "nationality": "Norway",
+      "trophies": []
+    },
+    {
+      "number": 12,
+      "name": "Antoine Griezmann",
+      "clubs": ["Real Sociedad", "Atlético Madrid", "Barcelona"],
+      "nationality": "France",
+      "trophies": ["1 World Cup", "1 Europa League"]
+    },
+    {
+      "number": 13,
+      "name": "Sadio Mané",
+      "clubs": ["Metz", "Red Bull Salzburg", "Southampton", "Liverpool"],
+      "nationality": "Senegal",
+      "trophies": ["1 Premier League", "1 Champions League"]
+    },
+    {
+      "number": 14,
+      "name": "Bruno Fernandes",
+      "clubs": ["Udinese", "Sampdoria", "Sporting CP", "Manchester United"],
+      "nationality": "Portugal",
+      "trophies": []
+    },
+    {
+      "number": 15,
+      "name": "Romelu Lukaku",
+      "clubs": ["Anderlecht", "Chelsea", "West Bromwich Albion", "Everton", "Manchester United", "Inter Milan", "Chelsea"],
+      "nationality": "Belgium",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 16,
+      "name": "Paulo Dybala",
+      "clubs": ["Instituto", "Palermo", "Juventus"],
+      "nationality": "Argentina",
+      "trophies": ["5 Serie A"]
+    },
+    {
+      "number": 17,
+      "name": "Raheem Sterling",
+      "clubs": ["Liverpool", "Manchester City"],
+      "nationality": "England",
+      "trophies": ["3 Premier League"]
+    },
+    {
+      "number": 18,
+      "name": "Eden Hazard",
+      "clubs": ["Lille", "Chelsea", "Real Madrid"],
+      "nationality": "Belgium",
+      "trophies": ["2 Premier League", "2 La Liga"]
+    },
+    {
+      "number": 19,
+      "name": "Luka Modrić",
+      "clubs": ["Dinamo Zagreb", "Tottenham Hotspur", "Real Madrid"],
+      "nationality": "Croatia",
+      "trophies": ["2 La Liga", "4 Champions League"]
+    },
+    {
+      "number": 20,
+      "name": "Toni Kroos",
+      "clubs": ["Bayern Munich", "Real Madrid"],
+      "nationality": "Germany",
+      "trophies": ["4 Bundesliga", "3 La Liga", "4 Champions League"]
+    },
+    {
+      "number": 21,
+      "name": "Marco Reus",
+      "clubs": ["Borussia Mönchengladbach", "Borussia Dortmund"],
+      "nationality": "Germany",
+      "trophies": ["2 DFB-Pokal"]
+    },
+    {
+      "number": 22,
+      "name": "Thomas Müller",
+      "clubs": ["Bayern Munich"],
+      "nationality": "Germany",
+      "trophies": ["10 Bundesliga", "2 Champions League"]
+    },
+    {
+      "number": 23,
+      "name": "Luis Suárez",
+      "clubs": ["Groningen", "Ajax", "Liverpool", "Barcelona", "Atlético Madrid"],
+      "nationality": "Uruguay",
+      "trophies": ["1 Copa America", "4 La Liga", "1 Champions League"]
+    },
+    {
+      "number": 24,
+      "name": "Pierre-Emerick Aubameyang",
+      "clubs": ["AC Milan", "Saint-Étienne", "Borussia Dortmund", "Arsenal"],
+      "nationality": "Gabon",
+      "trophies": ["1 DFB-Pokal", "1 FA Cup"]
+    },
+    {
+      "number": 25,
+      "name": "Joshua Kimmich",
+      "clubs": ["RB Leipzig", "Bayern Munich"],
+      "nationality": "Germany",
+      "trophies": ["7 Bundesliga", "1 Champions League"]
+    },
+    {
+      "number": 26,
+      "name": "Gareth Bale",
+      "clubs": ["Southampton", "Tottenham Hotspur", "Real Madrid"],
+      "nationality": "Wales",
+      "trophies": ["4 Champions League"]
+    },
+    {
+      "number": 27,
+      "name": "Thiago Alcântara",
+      "clubs": ["Barcelona", "Bayern Munich", "Liverpool"],
+      "nationality": "Spain",
+      "trophies": ["7 Bundesliga", "2 La Liga", "1 Champions League"]
+    },
+    {
+      "number": 28,
+      "name": "N'Golo Kanté",
+      "clubs": ["Caen", "Leicester City", "Chelsea"],
+      "nationality": "France",
+      "trophies": ["1 Premier League", "1 World Cup"]
+    },
+    {
+      "number": 29,
+      "name": "Virgil van Dijk",
+      "clubs": ["Groningen", "Celtic", "Southampton", "Liverpool"],
+      "nationality": "Netherlands",
+      "trophies": ["1 Premier League", "1 Champions League"]
+    },
+    {
+      "number": 30,
+      "name": "Manuel Neuer",
+      "clubs": ["Schalke 04", "Bayern Munich"],
+      "nationality": "Germany",
+      "trophies": ["10 Bundesliga", "2 Champions League"]
+    },
+    {
+      "number": 31,
+      "name": "David de Gea",
+      "clubs": ["Atlético Madrid", "Manchester United"],
+      "nationality": "Spain",
+      "trophies": ["1 Premier League", "1 Europa League"]
+    },
+    {
+      "number": 32,
+      "name": "Alisson Becker",
+      "clubs": ["Internacional", "Roma", "Liverpool"],
+      "nationality": "Brazil",
+      "trophies": ["1 Premier League", "1 Champions League"]
+    },
+    {
+      "number": 33,
+      "name": "Marc-André ter Stegen",
+      "clubs": ["Borussia Mönchengladbach", "Barcelona"],
+      "nationality": "Germany",
+      "trophies": ["5 La Liga", "1 Champions League"]
+    },
+    {
+      "number": 34,
+      "name": "Keylor Navas",
+      "clubs": ["Saprissa", "Levante", "Real Madrid", "Paris Saint-Germain"],
+      "nationality": "Costa Rica",
+      "trophies": ["3 Champions League", "5 Ligue 1"]
+    },
+    {
+      "number": 35,
+      "name": "Gianluigi Buffon",
+      "clubs": ["Parma", "Juventus", "Paris Saint-Germain"],
+      "nationality": "Italy",
+      "trophies": ["10 Serie A", "1 Ligue 1"]
+    },
+    {
+      "number": 36,
+      "name": "Jan Oblak",
+      "clubs": ["Benfica", "Atlético Madrid"],
+      "nationality": "Slovenia",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 37,
+      "name": "Paul Pogba",
+      "clubs": ["Le Havre", "Manchester United", "Juventus"],
+      "nationality": "France",
+      "trophies": ["1 World Cup", "4 Serie A"]
+    },
+    {
+      "number": 38,
+      "name": "Marcelo",
+      "clubs": ["Fluminense", "Real Madrid"],
+      "nationality": "Brazil",
+      "trophies": ["5 La Liga", "4 Champions League"]
+    },
+    {
+      "number": 39,
+      "name": "Dani Carvajal",
+      "clubs": ["Leverkusen", "Real Madrid"],
+      "nationality": "Spain",
+      "trophies": ["5 La Liga", "4 Champions League"]
+    },
+    {
+      "number": 40,
+      "name": "Jordi Alba",
+      "clubs": ["Valencia", "Barcelona"],
+      "nationality": "Spain",
+      "trophies": ["5 La Liga", "1 Champions League"]
+    },
+    {
+      "number": 41,
+      "name": "Trent Alexander-Arnold",
+      "clubs": ["Liverpool"],
+      "nationality": "England",
+      "trophies": ["1 Premier League", "1 Champions League"]
+    },
+    {
+      "number": 42,
+      "name": "Andy Robertson",
+      "clubs": ["Queen's Park", "Dundee United", "Hull City", "Liverpool"],
+      "nationality": "Scotland",
+      "trophies": ["1 Premier League", "1 Champions League"]
+    },
+    {
+      "number": 43,
+      "name": "Aymeric Laporte",
+      "clubs": ["Athletic Bilbao", "Manchester City"],
+      "nationality": "France",
+      "trophies": ["3 Premier League"]
+    },
+    {
+      "number": 44,
+      "name": "Raphael Varane",
+      "clubs": ["Lens", "Real Madrid", "Manchester United"],
+      "nationality": "France",
+      "trophies": ["4 Champions League"]
+    },
+    {
+      "number": 45,
+      "name": "Sergio Ramos",
+      "clubs": ["Sevilla", "Real Madrid", "Paris Saint-Germain"],
+      "nationality": "Spain",
+      "trophies": ["5 La Liga", "4 Champions League", "1 World Cup"]
+    },
+    {
+      "number": 46,
+      "name": "Kalidou Koulibaly",
+      "clubs": ["Metz", "Genk", "Napoli"],
+      "nationality": "Senegal",
+      "trophies": []
+    },
+    {
+      "number": 47,
+      "name": "Virgil van Dijk",
+      "clubs": ["Groningen", "Celtic", "Southampton", "Liverpool"],
+      "nationality": "Netherlands",
+      "trophies": ["1 Premier League", "1 Champions League"]
+    },
+    {
+      "number": 48,
+      "name": "Mats Hummels",
+      "clubs": ["Bayern Munich", "Borussia Dortmund"],
+      "nationality": "Germany",
+      "trophies": ["8 Bundesliga"]
+    },
+    {
+      "number": 49,
+      "name": "Giorgio Chiellini",
+      "clubs": ["Livorno", "Roma", "Juventus"],
+      "nationality": "Italy",
+      "trophies": ["10 Serie A"]
+    },
+    {
+      "number": 50,
+      "name": "Leonardo Bonucci",
+      "clubs": ["Inter Milan", "Bari", "Juventus", "AC Milan"],
+      "nationality": "Italy",
+      "trophies": ["10 Serie A"]
+    },
+    {
+      "number": 51,
+      "name": "Kalidou Koulibaly",
+      "clubs": ["Metz", "Genk", "Napoli"],
+      "nationality": "Senegal",
+      "trophies": []
+    },
+    {
+      "number": 52,
+      "name": "Jadon Sancho",
+      "clubs": ["Manchester City", "Borussia Dortmund", "Manchester United"],
+      "nationality": "England",
+      "trophies": ["1 DFB-Pokal"]
+    },
+    {
+      "number": 53,
+      "name": "Kai Havertz",
+      "clubs": ["Bayer Leverkusen", "Chelsea"],
+      "nationality": "Germany",
+      "trophies": ["1 Champions League"]
+    },
+    {
+      "number": 54,
+      "name": "João Félix",
+      "clubs": ["Benfica", "Atlético Madrid"],
+      "nationality": "Portugal",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 55,
+      "name": "Ansu Fati",
+      "clubs": ["Barcelona"],
+      "nationality": "Spain",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 56,
+      "name": "Phil Foden",
+      "clubs": ["Manchester City"],
+      "nationality": "England",
+      "trophies": ["3 Premier League"]
+    },
+    {
+      "number": 57,
+      "name": "Frenkie de Jong",
+      "clubs": ["Ajax", "Barcelona"],
+      "nationality": "Netherlands",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 58,
+      "name": "Rodrygo",
+      "clubs": ["Santos", "Real Madrid"],
+      "nationality": "Brazil",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 59,
+      "name": "Erling Haaland",
+      "clubs": ["Molde", "RB Salzburg", "Borussia Dortmund"],
+      "nationality": "Norway",
+      "trophies": []
+    },
+    {
+      "number": 60,
+      "name": "Dayot Upamecano",
+      "clubs": ["RB Leipzig", "Bayern Munich"],
+      "nationality": "France",
+      "trophies": ["1 Bundesliga"]
+    },
+    {
+      "number": 61,
+      "name": "Nuno Mendes",
+      "clubs": ["Sporting CP"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 62,
+      "name": "Pedri",
+      "clubs": ["Barcelona"],
+      "nationality": "Spain",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 63,
+      "name": "Jude Bellingham",
+      "clubs": ["Birmingham City", "Borussia Dortmund"],
+      "nationality": "England",
+      "trophies": ["1 DFB-Pokal"]
+    },
+    {
+      "number": 64,
+      "name": "Bukayo Saka",
+      "clubs": ["Arsenal"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 65,
+      "name": "Reece James",
+      "clubs": ["Chelsea"],
+      "nationality": "England",
+      "trophies": ["1 Champions League"]
+    },
+    {
+      "number": 66,
+      "name": "Dominik Szoboszlai",
+      "clubs": ["Red Bull Salzburg", "RB Leipzig"],
+      "nationality": "Hungary",
+      "trophies": []
+    },
+    {
+      "number": 67,
+      "name": "Ryan Gravenberch",
+      "clubs": ["Ajax"],
+      "nationality": "Netherlands",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 68,
+      "name": "Jonathan David",
+      "clubs": ["Gent", "Lille"],
+      "nationality": "Canada",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 69,
+      "name": "Mohammed Kudus",
+      "clubs": ["Nordsjælland", "Ajax"],
+      "nationality": "Ghana",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 70,
+      "name": "Jules Koundé",
+      "clubs": ["Bordeaux", "Sevilla"],
+      "nationality": "France",
+      "trophies": ["1 Europa League"]
+    },
+    {
+      "number": 71,
+      "name": "Dominik Livaković",
+      "clubs": ["Dinamo Zagreb"],
+      "nationality": "Croatia",
+      "trophies": ["5 HNL"]
+    },
+    {
+      "number": 72,
+      "name": "Antony",
+      "clubs": ["São Paulo", "Ajax"],
+      "nationality": "Brazil",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 73,
+      "name": "Sergiño Dest",
+      "clubs": ["Ajax", "Barcelona"],
+      "nationality": "United States",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 74,
+      "name": "Yusuf Demir",
+      "clubs": ["Rapid Vienna", "Barcelona"],
+      "nationality": "Austria",
+      "trophies": []
+    },
+    {
+      "number": 75,
+      "name": "Youssoufa Moukoko",
+      "clubs": ["Borussia Dortmund"],
+      "nationality": "Cameroon",
+      "trophies": []
+    },
+    {
+      "number": 76,
+      "name": "Jamal Musiala",
+      "clubs": ["Bayern Munich"],
+      "nationality": "Germany",
+      "trophies": ["2 Bundesliga"]
+    },
+    {
+      "number": 77,
+      "name": "Matheus Cunha",
+      "clubs": ["Sion", "RB Leipzig", "Hertha BSC"],
+      "nationality": "Brazil",
+      "trophies": []
+    },
+    {
+      "number": 78,
+      "name": "Rúben Dias",
+      "clubs": ["Benfica", "Manchester City"],
+      "nationality": "Portugal",
+      "trophies": ["1 Premier League"]
+    },
+    {
+      "number": 79,
+      "name": "Wesley Fofana",
+      "clubs": ["Saint-Étienne", "Leicester City"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 80,
+      "name": "Ryan Cherki",
+      "clubs": ["Lyon"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 81,
+      "name": "Lucas Paquetá",
+      "clubs": ["Flamengo", "Milan", "Lyon"],
+      "nationality": "Brazil",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 82,
+      "name": "Ferran Torres",
+      "clubs": ["Valencia", "Manchester City"],
+      "nationality": "Spain",
+      "trophies": ["1 Premier League"]
+    },
+    {
+      "number": 83,
+      "name": "Eduardo Camavinga",
+      "clubs": ["Rennes", "Real Madrid"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 84,
+      "name": "Sandro Tonali",
+      "clubs": ["Brescia", "AC Milan"],
+      "nationality": "Italy",
+      "trophies": []
+    },
+    {
+      "number": 85,
+      "name": "Mason Mount",
+      "clubs": ["Chelsea"],
+      "nationality": "England",
+      "trophies": ["1 Champions League"]
+    },
+    {
+      "number": 86,
+      "name": "Rodrygo",
+      "clubs": ["Santos", "Real Madrid"],
+      "nationality": "Brazil",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 87,
+      "name": "Yari Verschaeren",
+      "clubs": ["Anderlecht"],
+      "nationality": "Belgium",
+      "trophies": []
+    },
+    {
+      "number": 88,
+      "name": "Jonathan David",
+      "clubs": ["Gent", "Lille"],
+      "nationality": "Canada",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 89,
+      "name": "Nicolo Barella",
+      "clubs": ["Cagliari", "Inter Milan"],
+      "nationality": "Italy",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 90,
+      "name": "Pedri",
+      "clubs": ["Barcelona"],
+      "nationality": "Spain",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 91,
+      "name": "Emerson Royal",
+      "clubs": ["Atlético Mineiro", "Barcelona"],
+      "nationality": "Brazil",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 92,
+      "name": "Matteo Pessina",
+      "clubs": ["Monza", "Atalanta"],
+      "nationality": "Italy",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 93,
+      "name": "Alphonso Davies",
+      "clubs": ["Vancouver Whitecaps", "Bayern Munich"],
+      "nationality": "Canada",
+      "trophies": ["2 Bundesliga", "1 Champions League"]
+    },
+    {
+      "number": 94,
+      "name": "Gianluigi Donnarumma",
+      "clubs": ["Milan", "Paris Saint-Germain"],
+      "nationality": "Italy",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 95,
+      "name": "Nicolas Pépé",
+      "clubs": ["Angers", "Lille", "Arsenal"],
+      "nationality": "Ivory Coast",
+      "trophies": []
+    },
+    {
+      "number": 96,
+      "name": "Kieran Tierney",
+      "clubs": ["Celtic", "Arsenal"],
+      "nationality": "Scotland",
+      "trophies": ["1 FA Cup"]
+    },
+    {
+      "number": 97,
+      "name": "Dani Olmo",
+      "clubs": ["Dinamo Zagreb", "RB Leipzig"],
+      "nationality": "Spain",
+      "trophies": []
+    },
+    {
+      "number": 98,
+      "name": "Diogo Jota",
+      "clubs": ["Paços de Ferreira", "Porto", "Wolverhampton Wanderers", "Liverpool"],
+      "nationality": "Portugal",
+      "trophies": ["1 Premier League", "1 Champions League"]
+    },
+    {
+      "number": 99,
+      "name": "Harvey Elliott",
+      "clubs": ["Fulham", "Liverpool"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 100,
+      "name": "Erling Haaland",
+      "clubs": ["Molde", "RB Salzburg", "Borussia Dortmund"],
+      "nationality": "Norway",
+      "trophies": []
+    },
+    {
+      "number": 101,
+      "name": "Dayot Upamecano",
+      "clubs": ["RB Leipzig", "Bayern Munich"],
+      "nationality": "France",
+      "trophies": ["1 Bundesliga"]
+    },
+    {
+      "number": 102,
+      "name": "Sven Botman",
+      "clubs": ["Ajax", "Lille"],
+      "nationality": "Netherlands",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 103,
+      "name": "Jamal Musiala",
+      "clubs": ["Bayern Munich"],
+      "nationality": "Germany",
+      "trophies": ["2 Bundesliga"]
+    },
+    {
+      "number": 104,
+      "name": "Rayan Cherki",
+      "clubs": ["Lyon"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 105,
+      "name": "Eduardo Camavinga",
+      "clubs": ["Rennes", "Real Madrid"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 106,
+      "name": "Nicolo Barella",
+      "clubs": ["Cagliari", "Inter Milan"],
+      "nationality": "Italy",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 107,
+      "name": "Federico Valverde",
+      "clubs": ["Peñarol", "Real Madrid"],
+      "nationality": "Uruguay",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 108,
+      "name": "Rodrygo",
+      "clubs": ["Santos", "Real Madrid"],
+      "nationality": "Brazil",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 109,
+      "name": "Nicolas Pépé",
+      "clubs": ["Angers", "Lille", "Arsenal"],
+      "nationality": "Ivory Coast",
+      "trophies": []
+    },
+    {
+      "number": 110,
+      "name": "Sergiño Dest",
+      "clubs": ["Ajax", "Barcelona"],
+      "nationality": "United States",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 111,
+      "name": "Nuno Mendes",
+      "clubs": ["Sporting CP"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 112,
+      "name": "Riqui Puig",
+      "clubs": ["Barcelona"],
+      "nationality": "Spain",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 113,
+      "name": "Ryan Gravenberch",
+      "clubs": ["Ajax"],
+      "nationality": "Netherlands",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 114,
+      "name": "Jonathan David",
+      "clubs": ["Gent", "Lille"],
+      "nationality": "Canada",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 115,
+      "name": "Jamal Musiala",
+      "clubs": ["Bayern Munich"],
+      "nationality": "Germany",
+      "trophies": ["2 Bundesliga"]
+    },
+    {
+      "number": 116,
+      "name": "Matheus Cunha",
+      "clubs": ["Sion", "RB Leipzig", "Hertha BSC"],
+      "nationality": "Brazil",
+      "trophies": []
+    },
+    {
+      "number": 117,
+      "name": "Yusuf Demir",
+      "clubs": ["Rapid Vienna", "Barcelona"],
+      "nationality": "Austria",
+      "trophies": []
+    },
+    {
+      "number": 118,
+      "name": "Youssoufa Moukoko",
+      "clubs": ["Borussia Dortmund"],
+      "nationality": "Cameroon",
+      "trophies": []
+    },
+    {
+      "number": 119,
+      "name": "Emerson Royal",
+      "clubs": ["Atlético Mineiro", "Barcelona"],
+      "nationality": "Brazil",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 120,
+      "name": "Nuno Mendes",
+      "clubs": ["Sporting CP"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 121,
+      "name": "Phil Foden",
+      "clubs": ["Manchester City"],
+      "nationality": "England",
+      "trophies": ["3 Premier League"]
+    },
+    {
+      "number": 122,
+      "name": "Jude Bellingham",
+      "clubs": ["Birmingham City", "Borussia Dortmund"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 123,
+      "name": "Gianluigi Donnarumma",
+      "clubs": ["Milan", "Paris Saint-Germain"],
+      "nationality": "Italy",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 124,
+      "name": "Pedro Gonçalves",
+      "clubs": ["Famalicão", "Sporting CP"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 125,
+      "name": "Yusuf Yazıcı",
+      "clubs": ["Trabzonspor", "Lille"],
+      "nationality": "Turkey",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 126,
+      "name": "Paulinho",
+      "clubs": ["Vasco da Gama", "Bayer Leverkusen", "Braga"],
+      "nationality": "Brazil",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 127,
+      "name": "Tiemoué Bakayoko",
+      "clubs": ["Rennes", "Monaco", "Chelsea", "AC Milan", "Napoli"],
+      "nationality": "France",
+      "trophies": ["1 Ligue 1", "1 Serie A"]
+    },
+    {
+      "number": 128,
+      "name": "Nathan Aké",
+      "clubs": ["Feyenoord", "Bournemouth", "Manchester City"],
+      "nationality": "Netherlands",
+      "trophies": ["1 Premier League"]
+    },
+    {
+      "number": 129,
+      "name": "Marcelo Saracchi",
+      "clubs": ["River Plate", "RB Leipzig"],
+      "nationality": "Uruguay",
+      "trophies": []
+    },
+    {
+      "number": 130,
+      "name": "Odilon Kossounou",
+      "clubs": ["Ajax", "Club Brugge"],
+      "nationality": "Ivory Coast",
+      "trophies": ["2 Jupiler Pro League"]
+    },
+    {
+      "number": 131,
+      "name": "Matheus Cunha",
+      "clubs": ["Sion", "RB Leipzig", "Hertha BSC"],
+      "nationality": "Brazil",
+      "trophies": []
+    },
+    {
+      "number": 132,
+      "name": "Mason Mount",
+      "clubs": ["Chelsea"],
+      "nationality": "England",
+      "trophies": ["1 Champions League"]
+    },
+    {
+      "number": 133,
+      "name": "Marcos Llorente",
+      "clubs": ["Real Madrid", "Alavés", "Atlético Madrid"],
+      "nationality": "Spain",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 134,
+      "name": "Josko Gvardiol",
+      "clubs": ["Dinamo Zagreb", "RB Leipzig"],
+      "nationality": "Croatia",
+      "trophies": ["3 HNL"]
+    },
+    {
+      "number": 135,
+      "name": "Phil Foden",
+      "clubs": ["Manchester City"],
+      "nationality": "England",
+      "trophies": ["3 Premier League"]
+    },
+    {
+      "number": 136,
+      "name": "Darwin Núñez",
+      "clubs": ["Peñarol", "Almería", "Benfica"],
+      "nationality": "Uruguay",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 137,
+      "name": "Dominik Szoboszlai",
+      "clubs": ["Liefering", "RB Salzburg", "RB Leipzig"],
+      "nationality": "Hungary",
+      "trophies": ["2 Bundesliga"]
+    },
+    {
+      "number": 138,
+      "name": "Lukas Klostermann",
+      "clubs": ["RB Leipzig"],
+      "nationality": "Germany",
+      "trophies": ["1 DFB-Pokal"]
+    },
+    {
+      "number": 139,
+      "name": "Jules Koundé",
+      "clubs": ["Bordeaux", "Sevilla"],
+      "nationality": "France",
+      "trophies": ["1 Europa League"]
+    },
+    {
+      "number": 140,
+      "name": "Emile Smith Rowe",
+      "clubs": ["Arsenal"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 141,
+      "name": "Dejan Kulusevski",
+      "clubs": ["Atalanta", "Parma", "Juventus"],
+      "nationality": "Sweden",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 142,
+      "name": "Sander Berge",
+      "clubs": ["Genk", "Sheffield United"],
+      "nationality": "Norway",
+      "trophies": []
+    },
+    {
+      "number": 143,
+      "name": "Karim Adeyemi",
+      "clubs": ["Liefering", "RB Salzburg"],
+      "nationality": "Germany",
+      "trophies": ["1 Bundesliga"]
+    },
+    {
+      "number": 144,
+      "name": "Nicolas Tagliafico",
+      "clubs": ["Independiente", "Ajax"],
+      "nationality": "Argentina",
+      "trophies": ["2 Eredivisie"]
+    },
+    {
+      "number": 145,
+      "name": "Youssoufa Moukoko",
+      "clubs": ["Borussia Dortmund"],
+      "nationality": "Cameroon",
+      "trophies": []
+    },
+    {
+      "number": 146,
+      "name": "Francisco Trincão",
+      "clubs": ["Braga", "Barcelona", "Wolverhampton Wanderers"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 147,
+      "name": "Eric García",
+      "clubs": ["Manchester City", "Barcelona"],
+      "nationality": "Spain",
+      "trophies": ["2 Premier League"]
+    },
+    {
+      "number": 148,
+      "name": "Erling Haaland",
+      "clubs": ["Molde", "RB Salzburg", "Borussia Dortmund"],
+      "nationality": "Norway",
+      "trophies": []
+    },
+    {
+      "number": 149,
+      "name": "Alexander Isak",
+      "clubs": ["AIK", "Borussia Dortmund", "Willem II", "Real Sociedad"],
+      "nationality": "Sweden",
+      "trophies": []
+    },
+    {
+      "number": 150,
+      "name": "Ryan Gravenberch",
+      "clubs": ["Ajax"],
+      "nationality": "Netherlands",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 151,
+      "name": "Jamal Musiala",
+      "clubs": ["Bayern Munich"],
+      "nationality": "Germany",
+      "trophies": ["2 Bundesliga"]
+    },
+    {
+      "number": 152,
+      "name": "Jonathan David",
+      "clubs": ["Gent", "Lille"],
+      "nationality": "Canada",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 153,
+      "name": "Patson Daka",
+      "clubs": ["Kafue Celtic", "Liefering", "RB Salzburg", "Leicester City"],
+      "nationality": "Zambia",
+      "trophies": ["2 Austrian Bundesliga"]
+    },
+    {
+      "number": 154,
+      "name": "Leon Bailey",
+      "clubs": ["Genk", "Bayer Leverkusen", "Aston Villa"],
+      "nationality": "Jamaica",
+      "trophies": []
+    },
+    {
+      "number": 155,
+      "name": "Nuno Mendes",
+      "clubs": ["Sporting CP"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 156,
+      "name": "Mohammed Kudus",
+      "clubs": ["Nordsjælland", "Ajax"],
+      "nationality": "Ghana",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 157,
+      "name": "Charles De Ketelaere",
+      "clubs": ["Club Brugge"],
+      "nationality": "Belgium",
+      "trophies": ["2 Jupiler Pro League"]
+    },
+    {
+      "number": 158,
+      "name": "Jadon Sancho",
+      "clubs": ["Manchester City", "Borussia Dortmund", "Manchester United"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 159,
+      "name": "Gabriel Veron",
+      "clubs": ["Palmeiras"],
+      "nationality": "Brazil",
+      "trophies": ["1 Copa Libertadores"]
+    },
+    {
+      "number": 160,
+      "name": "Cristian Romero",
+      "clubs": ["Belgrano", "Genoa", "Atalanta", "Tottenham Hotspur"],
+      "nationality": "Argentina",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 161,
+      "name": "Mohamed Simakan",
+      "clubs": ["Strasbourg", "RB Leipzig"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 162,
+      "name": "Riqui Puig",
+      "clubs": ["Barcelona"],
+      "nationality": "Spain",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 163,
+      "name": "Odsonne Édouard",
+      "clubs": ["Paris Saint-Germain", "Toulouse", "Celtic", "Crystal Palace"],
+      "nationality": "France",
+      "trophies": ["4 Scottish Premiership"]
+    },
+    {
+      "number": 164,
+      "name": "Giovanni Reyna",
+      "clubs": ["Borussia Dortmund"],
+      "nationality": "United States",
+      "trophies": []
+    },
+    {
+      "number": 165,
+      "name": "Ferran Torres",
+      "clubs": ["Valencia", "Manchester City"],
+      "nationality": "Spain",
+      "trophies": ["1 Premier League"]
+    },
+    {
+      "number": 166,
+      "name": "Donyell Malen",
+      "clubs": ["Jong PSV", "PSV Eindhoven"],
+      "nationality": "Netherlands",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 167,
+      "name": "Josko Gvardiol",
+      "clubs": ["Dinamo Zagreb", "RB Leipzig"],
+      "nationality": "Croatia",
+      "trophies": ["3 HNL"]
+    },
+    {
+      "number": 168,
+      "name": "Tanguy Ndombele",
+      "clubs": ["Amiens", "Lyon", "Tottenham Hotspur"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 169,
+      "name": "Rodrygo",
+      "clubs": ["Santos", "Real Madrid"],
+      "nationality": "Brazil",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 170,
+      "name": "Florian Neuhaus",
+      "clubs": ["1860 Munich", "Borussia Mönchengladbach"],
+      "nationality": "Germany",
+      "trophies": []
+    },
+    {
+      "number": 171,
+      "name": "Cengiz Ünder",
+      "clubs": ["İstanbul Başakşehir", "Roma", "Leicester City"],
+      "nationality": "Turkey",
+      "trophies": []
+    },
+    {
+      "number": 172,
+      "name": "Rodrygo",
+      "clubs": ["Santos", "Real Madrid"],
+      "nationality": "Brazil",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 173,
+      "name": "Denzel Dumfries",
+      "clubs": ["Sparta Rotterdam", "Heerenveen", "PSV Eindhoven"],
+      "nationality": "Netherlands",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 174,
+      "name": "Nuno Mendes",
+      "clubs": ["Sporting CP"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 175,
+      "name": "Federico Valverde",
+      "clubs": ["Peñarol", "Deportivo La Coruña", "Real Madrid"],
+      "nationality": "Uruguay",
+      "trophies": ["2 La Liga"]
+    },
+    {
+      "number": 176,
+      "name": "Dejan Kulusevski",
+      "clubs": ["Atalanta", "Parma", "Juventus"],
+      "nationality": "Sweden",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 177,
+      "name": "Marcos Llorente",
+      "clubs": ["Real Madrid", "Alavés", "Atlético Madrid"],
+      "nationality": "Spain",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 178,
+      "name": "Donyell Malen",
+      "clubs": ["Jong PSV", "PSV Eindhoven"],
+      "nationality": "Netherlands",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 179,
+      "name": "Dominik Szoboszlai",
+      "clubs": ["Liefering", "RB Salzburg", "RB Leipzig"],
+      "nationality": "Hungary",
+      "trophies": ["2 Bundesliga"]
+    },
+    {
+      "number": 180,
+      "name": "Rúben Dias",
+      "clubs": ["Benfica", "Manchester City"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 181,
+      "name": "Federico Chiesa",
+      "clubs": ["Fiorentina", "Juventus"],
+      "nationality": "Italy",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 182,
+      "name": "Yunus Musah",
+      "clubs": ["Valencia"],
+      "nationality": "United States",
+      "trophies": []
+    },
+    {
+      "number": 183,
+      "name": "Jude Bellingham",
+      "clubs": ["Borussia Dortmund"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 184,
+      "name": "Ferran Torres",
+      "clubs": ["Valencia", "Manchester City"],
+      "nationality": "Spain",
+      "trophies": ["1 Premier League"]
+    },
+    {
+      "number": 185,
+      "name": "Myron Boadu",
+      "clubs": ["AZ"],
+      "nationality": "Netherlands",
+      "trophies": []
+    },
+    {
+      "number": 186,
+      "name": "Josip Brekalo",
+      "clubs": ["Dinamo Zagreb", "VfL Wolfsburg"],
+      "nationality": "Croatia",
+      "trophies": []
+    },
+    {
+      "number": 187,
+      "name": "Jérémy Doku",
+      "clubs": ["Anderlecht", "Rennes"],
+      "nationality": "Belgium",
+      "trophies": ["1 Coupe de France"]
+    },
+    {
+      "number": 188,
+      "name": "Takefusa Kubo",
+      "clubs": ["Kawasaki Frontale", "Tokyo", "Mallorca", "Villarreal"],
+      "nationality": "Japan",
+      "trophies": []
+    },
+    {
+      "number": 189,
+      "name": "Lee Kang-in",
+      "clubs": ["Valencia", "Mallorca"],
+      "nationality": "South Korea",
+      "trophies": []
+    },
+    {
+      "number": 190,
+      "name": "Amad Diallo",
+      "clubs": ["Atalanta", "Manchester United"],
+      "nationality": "Ivory Coast",
+      "trophies": []
+    },
+    {
+      "number": 191,
+      "name": "Mason Greenwood",
+      "clubs": ["Manchester United"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 192,
+      "name": "Mohamed Ihattaren",
+      "clubs": ["PSV Eindhoven"],
+      "nationality": "Netherlands",
+      "trophies": []
+    },
+    {
+      "number": 193,
+      "name": "Jonathan Ikoné",
+      "clubs": ["Paris Saint-Germain", "Montpellier", "Lille"],
+      "nationality": "France",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 194,
+      "name": "Fábio Silva",
+      "clubs": ["Porto", "Wolverhampton Wanderers"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 195,
+      "name": "Alphonso Davies",
+      "clubs": ["Vancouver Whitecaps", "Bayern Munich"],
+      "nationality": "Canada",
+      "trophies": ["2 Bundesliga"]
+    },
+    {
+      "number": 196,
+      "name": "Rúben Neves",
+      "clubs": ["Porto", "Wolverhampton Wanderers"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 197,
+      "name": "Ilaix Moriba",
+      "clubs": ["Barcelona"],
+      "nationality": "Guinea",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 198,
+      "name": "Ricardo Pereira",
+      "clubs": ["Vitória Guimarães", "Porto", "Nice", "Leicester City"],
+      "nationality": "Portugal",
+      "trophies": ["1 Premier League"]
+    },
+    {
+      "number": 199,
+      "name": "Nikola Milenković",
+      "clubs": ["Partizan", "Fiorentina"],
+      "nationality": "Serbia",
+      "trophies": []
+    },
+    {
+      "number": 200,
+      "name": "Sergino Dest",
+      "clubs": ["Ajax", "Barcelona"],
+      "nationality": "United States",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 201,
+      "name": "Nuno Mendes",
+      "clubs": ["Sporting CP"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 202,
+      "name": "Fabio Quartararo",
+      "clubs": ["Speed Up", "Yamaha"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 203,
+      "name": "Nicolas Pépé",
+      "clubs": ["Angers", "Lille", "Arsenal"],
+      "nationality": "Ivory Coast",
+      "trophies": []
+    },
+    {
+      "number": 204,
+      "name": "Rodrygo",
+      "clubs": ["Santos", "Real Madrid"],
+      "nationality": "Brazil",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 205,
+      "name": "Krépin Diatta",
+      "clubs": ["Sarpsborg 08", "Club Brugge", "Monaco"],
+      "nationality": "Senegal",
+      "trophies": ["2 Jupiler Pro League"]
+    },
+    {
+      "number": 206,
+      "name": "Federico Valverde",
+      "clubs": ["Peñarol", "Deportivo La Coruña", "Real Madrid"],
+      "nationality": "Uruguay",
+      "trophies": ["2 La Liga"]
+    },
+    {
+      "number": 207,
+      "name": "Mohamed Simakan",
+      "clubs": ["Strasbourg", "RB Leipzig"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 208,
+      "name": "Cengiz Ünder",
+      "clubs": ["İstanbul Başakşehir", "Roma", "Leicester City"],
+      "nationality": "Turkey",
+      "trophies": []
+    },
+    {
+      "number": 209,
+      "name": "Lee Kang-in",
+      "clubs": ["Valencia", "Mallorca"],
+      "nationality": "South Korea",
+      "trophies": []
+    },
+    {
+      "number": 210,
+      "name": "Boubacar Kamara",
+      "clubs": ["Marseille"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 211,
+      "name": "Jadon Sancho",
+      "clubs": ["Manchester City", "Borussia Dortmund", "Manchester United"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 212,
+      "name": "Rúben Dias",
+      "clubs": ["Benfica", "Manchester City"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 213,
+      "name": "Nikola Vlašić",
+      "clubs": ["Hajduk Split", "Everton", "CSKA Moscow"],
+      "nationality": "Croatia",
+      "trophies": ["1 Russian Premier League"]
+    },
+    {
+      "number": 214,
+      "name": "Bukayo Saka",
+      "clubs": ["Arsenal"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 215,
+      "name": "Nuno Mendes",
+      "clubs": ["Sporting CP"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 216,
+      "name": "Ismaila Sarr",
+      "clubs": ["Metz", "Rennes", "Watford"],
+      "nationality": "Senegal",
+      "trophies": []
+    },
+    {
+      "number": 217,
+      "name": "Florian Neuhaus",
+      "clubs": ["1860 Munich", "Borussia Mönchengladbach"],
+      "nationality": "Germany",
+      "trophies": []
+    },
+    {
+      "number": 218,
+      "name": "Pape Matar Sarr",
+      "clubs": ["Metz", "Porto"],
+      "nationality": "Senegal",
+      "trophies": []
+    },
+    {
+      "number": 219,
+      "name": "Giovanni Reyna",
+      "clubs": ["Borussia Dortmund"],
+      "nationality": "United States",
+      "trophies": []
+    },
+    {
+      "number": 220,
+      "name": "Maxence Caqueret",
+      "clubs": ["Lyon"],
+      "nationality": "France",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 221,
+      "name": "Mason Mount",
+      "clubs": ["Chelsea"],
+      "nationality": "England",
+      "trophies": ["1 UEFA Champions League"]
+    },
+    {
+      "number": 222,
+      "name": "Odsonne Édouard",
+      "clubs": ["Celtic", "Crystal Palace"],
+      "nationality": "France",
+      "trophies": ["3 Scottish Premiership"]
+    },
+    {
+      "number": 223,
+      "name": "Marash Kumbulla",
+      "clubs": ["Hellas Verona", "Roma"],
+      "nationality": "Albania",
+      "trophies": []
+    },
+    {
+      "number": 224,
+      "name": "Sergiño Dest",
+      "clubs": ["Ajax", "Barcelona"],
+      "nationality": "United States",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 225,
+      "name": "Nuno Mendes",
+      "clubs": ["Sporting CP"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 226,
+      "name": "Houssem Aouar",
+      "clubs": ["Lyon"],
+      "nationality": "France",
+      "trophies": ["1 Coupe de la Ligue"]
+    },
+    {
+      "number": 227,
+      "name": "Oscar Mingueza",
+      "clubs": ["Barcelona"],
+      "nationality": "Spain",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 228,
+      "name": "Fábio Vieira",
+      "clubs": ["Porto"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 229,
+      "name": "Eduardo Camavinga",
+      "clubs": ["Rennes", "Real Madrid"],
+      "nationality": "France",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 230,
+      "name": "João Félix",
+      "clubs": ["Benfica", "Atlético Madrid"],
+      "nationality": "Portugal",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 231,
+      "name": "Sandro Tonali",
+      "clubs": ["Brescia", "AC Milan"],
+      "nationality": "Italy",
+      "trophies": []
+    },
+    {
+      "number": 232,
+      "name": "Rodrygo",
+      "clubs": ["Santos", "Real Madrid"],
+      "nationality": "Brazil",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 233,
+      "name": "Ryan Gravenberch",
+      "clubs": ["Ajax"],
+      "nationality": "Netherlands",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 234,
+      "name": "Josko Gvardiol",
+      "clubs": ["Dinamo Zagreb", "RB Leipzig"],
+      "nationality": "Croatia",
+      "trophies": ["2 Prva HNL"]
+    },
+    {
+      "number": 235,
+      "name": "Federico Valverde",
+      "clubs": ["Peñarol", "Deportivo La Coruña", "Real Madrid"],
+      "nationality": "Uruguay",
+      "trophies": ["2 La Liga"]
+    },
+    {
+      "number": 236,
+      "name": "Nicolas Pépé",
+      "clubs": ["Angers", "Lille", "Arsenal"],
+      "nationality": "Ivory Coast",
+      "trophies": []
+    },
+    {
+      "number": 237,
+      "name": "Bukayo Saka",
+      "clubs": ["Arsenal"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 238,
+      "name": "Ilaix Moriba",
+      "clubs": ["Barcelona"],
+      "nationality": "Guinea",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 239,
+      "name": "Yusuf Demir",
+      "clubs": ["Rapid Wien", "Barcelona"],
+      "nationality": "Austria",
+      "trophies": ["1 Austrian Cup"]
+    },
+    {
+      "number": 240,
+      "name": "Giovanni Reyna",
+      "clubs": ["Borussia Dortmund"],
+      "nationality": "United States",
+      "trophies": []
+    },
+    {
+      "number": 241,
+      "name": "Gianluigi Donnarumma",
+      "clubs": ["Milan"],
+      "nationality": "Italy",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 242,
+      "name": "Cengiz Ünder",
+      "clubs": ["İstanbul Başakşehir", "Roma", "Leicester City"],
+      "nationality": "Turkey",
+      "trophies": []
+    },
+    {
+      "number": 243,
+      "name": "Jeremy Toljan",
+      "clubs": ["Hoffenheim", "Borussia Dortmund", "Sassuolo", "Sassuolo"],
+      "nationality": "Germany",
+      "trophies": ["1 Bundesliga"]
+    },
+    {
+      "number": 244,
+      "name": "Isaac Lihadji",
+      "clubs": ["Marseille", "Lille"],
+      "nationality": "France",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 245,
+      "name": "Youssef En-Nesyri",
+      "clubs": ["Malaga", "Leganés", "Sevilla"],
+      "nationality": "Morocco",
+      "trophies": ["1 UEFA Europa League"]
+    },
+    {
+      "number": 246,
+      "name": "Jonathan David",
+      "clubs": ["Gent", "Lille"],
+      "nationality": "Canada",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 247,
+      "name": "Max Aarons",
+      "clubs": ["Norwich City"],
+      "nationality": "England",
+      "trophies": ["1 EFL Championship"]
+    },
+    {
+      "number": 248,
+      "name": "Sardar Azmoun",
+      "clubs": ["Rubin Kazan", "Rostov", "Zenit Saint Petersburg"],
+      "nationality": "Iran",
+      "trophies": ["1 Russian Premier League"]
+    },
+    {
+      "number": 249,
+      "name": "Hakim Ziyech",
+      "clubs": ["Heerenveen", "Twente", "Ajax", "Chelsea"],
+      "nationality": "Morocco",
+      "trophies": ["2 Eredivisie"]
+    },
+    {
+      "number": 250,
+      "name": "Eberechi Eze",
+      "clubs": ["Queens Park Rangers", "Crystal Palace"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 251,
+      "name": "Patson Daka",
+      "clubs": ["Liefering", "Red Bull Salzburg", "Leicester City"],
+      "nationality": "Zambia",
+      "trophies": ["2 Austrian Bundesliga"]
+    },
+    {
+      "number": 252,
+      "name": "Boubacar Kamara",
+      "clubs": ["Marseille"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 253,
+      "name": "Erling Haaland",
+      "clubs": ["Molde", "Red Bull Salzburg", "Borussia Dortmund"],
+      "nationality": "Norway",
+      "trophies": []
+    },
+    {
+      "number": 254,
+      "name": "Yusuf Yazıcı",
+      "clubs": ["Trabzonspor", "Lille"],
+      "nationality": "Turkey",
+      "trophies": ["1 Süper Lig", "1 Ligue 1"]
+    },
+    {
+      "number": 255,
+      "name": "Nuno Mendes",
+      "clubs": ["Sporting CP"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 256,
+      "name": "Alphonso Davies",
+      "clubs": ["Vancouver Whitecaps", "Bayern Munich"],
+      "nationality": "Canada",
+      "trophies": ["2 Bundesliga"]
+    },
+    {
+      "number": 257,
+      "name": "Alexander Isak",
+      "clubs": ["AIK", "Borussia Dortmund", "Willem II", "Real Sociedad"],
+      "nationality": "Sweden",
+      "trophies": []
+    },
+    {
+      "number": 258,
+      "name": "Marley Aké",
+      "clubs": ["Marseille", "Marseille", "Juventus"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 259,
+      "name": "Takefusa Kubo",
+      "clubs": ["Yokohama F. Marinos", "Tokyo", "Villarreal"],
+      "nationality": "Japan",
+      "trophies": ["1 J1 League"]
+    },
+    {
+      "number": 260,
+      "name": "Mohamed Simakan",
+      "clubs": ["Strasbourg", "RB Leipzig"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 261,
+      "name": "Krépin Diatta",
+      "clubs": ["Sarpsborg 08", "Club Brugge", "Monaco"],
+      "nationality": "Senegal",
+      "trophies": ["2 Jupiler Pro League"]
+    },
+    {
+      "number": 262,
+      "name": "Antony",
+      "clubs": ["São Paulo", "Ajax"],
+      "nationality": "Brazil",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 263,
+      "name": "Jérémy Doku",
+      "clubs": ["Anderlecht", "Rennes"],
+      "nationality": "Belgium",
+      "trophies": ["1 Jupiler Pro League"]
+    },
+    {
+      "number": 264,
+      "name": "Eduardo Camavinga",
+      "clubs": ["Rennes", "Real Madrid"],
+      "nationality": "France",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 265,
+      "name": "José Gayà",
+      "clubs": ["Valencia"],
+      "nationality": "Spain",
+      "trophies": []
+    },
+    {
+      "number": 266,
+      "name": "Nuno Mendes",
+      "clubs": ["Sporting CP"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 267,
+      "name": "Ander Barrenetxea",
+      "clubs": ["Real Sociedad"],
+      "nationality": "Spain",
+      "trophies": []
+    },
+    {
+      "number": 268,
+      "name": "Liam Delap",
+      "clubs": ["Manchester City"],
+      "nationality": "England",
+      "trophies": []
+    },
+    {
+      "number": 269,
+      "name": "Maxence Lacroix",
+      "clubs": ["Sochaux", "Wolfsburg"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 270,
+      "name": "Darío Sarmiento",
+      "clubs": ["Estudiantes", "Manchester City"],
+      "nationality": "Argentina",
+      "trophies": []
+    },
+    {
+      "number": 271,
+      "name": "Florian Wirtz",
+      "clubs": ["Bayer Leverkusen"],
+      "nationality": "Germany",
+      "trophies": []
+    },
+    {
+      "number": 272,
+      "name": "Sergiño Dest",
+      "clubs": ["Ajax", "Barcelona"],
+      "nationality": "United States",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 273,
+      "name": "Flavius Daniliuc",
+      "clubs": ["Bayern Munich", "Nice"],
+      "nationality": "Austria",
+      "trophies": ["1 Bundesliga"]
+    },
+    {
+      "number": 274,
+      "name": "Boubacar Kamara",
+      "clubs": ["Marseille"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 275,
+      "name": "Lee Kang-in",
+      "clubs": ["Valencia", "Mallorca"],
+      "nationality": "South Korea",
+      "trophies": []
+    },
+    {
+      "number": 276,
+      "name": "Ilaix Moriba",
+      "clubs": ["Barcelona"],
+      "nationality": "Guinea",
+      "trophies": ["1 La Liga"]
+    },
+    {
+      "number": 277,
+      "name": "Luka Romero",
+      "clubs": ["Mallorca"],
+      "nationality": "Argentina",
+      "trophies": []
+    },
+    {
+      "number": 278,
+      "name": "Sardar Azmoun",
+      "clubs": ["Rubin Kazan", "Rostov", "Zenit Saint Petersburg"],
+      "nationality": "Iran",
+      "trophies": ["1 Russian Premier League"]
+    },
+    {
+      "number": 279,
+      "name": "Karim Adeyemi",
+      "clubs": ["Liefering", "Red Bull Salzburg"],
+      "nationality": "Germany",
+      "trophies": ["2 Austrian Bundesliga"]
+    },
+    {
+      "number": 280,
+      "name": "Mason Greenwood",
+      "clubs": ["Manchester United"],
+      "nationality": "England",
+      "trophies": ["1 UEFA Europa League"]
+    },
+    {
+      "number": 281,
+      "name": "Jonathan David",
+      "clubs": ["Gent", "Lille"],
+      "nationality": "Canada",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 282,
+      "name": "Matheus Nunes",
+      "clubs": ["Estoril", "Sporting CP"],
+      "nationality": "Brazil",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 283,
+      "name": "Takefusa Kubo",
+      "clubs": ["Yokohama F. Marinos", "Tokyo", "Villarreal"],
+      "nationality": "Japan",
+      "trophies": ["1 J1 League"]
+    },
+    {
+      "number": 284,
+      "name": "Alhassan Yusuf",
+      "clubs": ["IFK Göteborg", "Antwerp"],
+      "nationality": "Nigeria",
+      "trophies": []
+    },
+    {
+      "number": 285,
+      "name": "Moisés Caicedo",
+      "clubs": ["Independiente del Valle", "Brighton & Hove Albion"],
+      "nationality": "Ecuador",
+      "trophies": []
+    },
+    {
+      "number": 286,
+      "name": "Ricardo Pepi",
+      "clubs": ["North Texas SC", "FC Dallas"],
+      "nationality": "United States",
+      "trophies": []
+    },
+    {
+      "number": 287,
+      "name": "Juan Agüero",
+      "clubs": ["Huracán"],
+      "nationality": "Argentina",
+      "trophies": []
+    },
+    {
+      "number": 288,
+      "name": "Amad Diallo",
+      "clubs": ["Atalanta", "Manchester United"],
+      "nationality": "Ivory Coast",
+      "trophies": ["1 Serie A"]
+    },
+    {
+      "number": 289,
+      "name": "Reinier",
+      "clubs": ["Flamengo", "Real Madrid"],
+      "nationality": "Brazil",
+      "trophies": []
+    },
+    {
+      "number": 290,
+      "name": "Matías Soulé",
+      "clubs": ["San Lorenzo"],
+      "nationality": "Argentina",
+      "trophies": []
+    },
+    {
+      "number": 291,
+      "name": "Gabriel Veron",
+      "clubs": ["Palmeiras"],
+      "nationality": "Brazil",
+      "trophies": ["1 Copa Libertadores"]
+    },
+    {
+      "number": 292,
+      "name": "Fábio Silva",
+      "clubs": ["Porto", "Wolverhampton Wanderers"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 293,
+      "name": "Nuno Tavares",
+      "clubs": ["Benfica", "Arsenal"],
+      "nationality": "Portugal",
+      "trophies": ["1 Primeira Liga"]
+    },
+    {
+      "number": 294,
+      "name": "Maxence Lacroix",
+      "clubs": ["Sochaux", "Wolfsburg"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 295,
+      "name": "Marcos Leonardo",
+      "clubs": ["Santos"],
+      "nationality": "Brazil",
+      "trophies": ["1 Campeonato Paulista"]
+    },
+    {
+      "number": 296,
+      "name": "Mitchel Bakker",
+      "clubs": ["Ajax", "Paris Saint-Germain"],
+      "nationality": "Netherlands",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 297,
+      "name": "Mohamed Simakan",
+      "clubs": ["Strasbourg", "RB Leipzig"],
+      "nationality": "France",
+      "trophies": []
+    },
+    {
+      "number": 298,
+      "name": "Lassina Traoré",
+      "clubs": ["Ajax", "Shakhtar Donetsk"],
+      "nationality": "Burkina Faso",
+      "trophies": ["1 Eredivisie"]
+    },
+    {
+      "number": 299,
+      "name": "Adil Aouchiche",
+      "clubs": ["Paris Saint-Germain", "Saint-Étienne"],
+      "nationality": "France",
+      "trophies": ["1 Ligue 1"]
+    },
+    {
+      "number": 300,
+      "name": "Thiago Almada",
+      "clubs": ["Vélez Sarsfield"],
+      "nationality": "Argentina",
+      "trophies": []
+    }
+  ]
+}

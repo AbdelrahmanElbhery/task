@@ -10,18 +10,14 @@ class Searching extends StatelessWidget {
   });
   @override
   Widget build(BuildContext context) {
-    bool show = false;
     return BlocProvider(
-      create: (context) => TaskCubit()..getNews(),
+      create: (context) => TaskCubit()
+        ..getNews()
+        ..listenFocus(),
       child: BlocConsumer<TaskCubit, TaskState>(
-        listener: (context, state) {
-          if (state is GetNewsSuccessState) {
-            show = true;
-            TaskCubit.get(context).listenFocus();
-          }
-        },
+        listener: (context, state) {},
         builder: (context, state) {
-          if (show) {
+          if (state is! GetNewsLoadingState) {
             return SizedBox(
               width: MediaQuery.of(context).size.width * .75,
               child: SearchField<Articles>(

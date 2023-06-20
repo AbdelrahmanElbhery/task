@@ -7,15 +7,7 @@ class Task extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => Scaffold(
-        appBar: AppBar(
-            leading: IconButton(
-          onPressed: () {
-            Navigator.pop(context);
-          },
-          icon: Icon(Icons.arrow_back),
-        )),
-        body: SafeArea(
-          child: Center(child: Searching()),
-        ),
+        appBar: AppBar(),
+        body: Center(child: Searching()),
       );
 }
